@@ -1,0 +1,46 @@
+.logo1{
+	width: 50%;
+	margin-top: 5%;
+	max-width: 136px;
+}
+
+.stella{
+	width: 5%;
+	min-width: 16px;
+	max-width: 27px;
+	margin-top: 1%;
+}
+
+.margine{
+	margin-top: 30px;
+}
+
+.nome{
+	margin-top: 4%;
+}
+
+.data{
+	margin-top: 7%;
+}
+
+.bordo{
+	border: 1px solid #ddd;
+}
+
+.prefooter{
+	margin-bottom: 60px;
+}
+
+.domanda{
+	padding-left: 0px;
+}
+
+.email{
+	width: 20px;
+}
+
+
+.spazio{
+	margin-top: 4%;
+}
+
