@@ -1,0 +1,22 @@
+parola chiave di primo livello: Univaq-ino
+parole chiavi di secondo livello: università, aule libere, uffici professori
+parole chiavi di terzo livello: app, docenti univaq, mensa univaq 
+
+mettere la parola chiave nel tag title piu vicino possibile alll'inizio del tag. Oltre le 70 lettere taglia
+mettere la parola chiave nel tag header h1 della pagina
+mettere la parola chiave almeno 3 volte nel corpo della pagina
+mettere la parola chiave almeno una volta in grassetto <b>
+mettere la parola chiave almeno una volta nell'attributo alt
+mettere la parola chiave una volta nella url
+mettere la parola chiave una o due volte nel meta tag description (quello che viene mostrato sotto il titolo nella rucerca)
+
+ogni pagina è ottimizzata per una sola parola chiave (la più importante per la pagina stessa)
+E’ opportuno avere molte pagine ottimizzate per la chiave al primo livello ed un numero inferiore ottimizzate per avere le chiavi del secondo livello come chiavi importanti.
+
+all'inizio o alla fine dei tag title utile mettere il brand
+
+alt a tutte le immagini per seo alle immagini
+
+url brevi sotto 250 caratteri e deve contenere la parola chiave
+mettere file robots.txt sulla root
+e sitemap (forse)
