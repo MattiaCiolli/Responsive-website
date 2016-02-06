@@ -13,3 +13,9 @@
 .spazio{
 	margin-top: 4%;
 }
+
+@media (max-width:768px ){
+	.imgfeatures{
+		max-width: 220px;
+	}
+}
