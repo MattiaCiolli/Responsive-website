@@ -1,5 +1,5 @@
 .jumbotron {
-	background: url("../../img/smartphone.jpg") no-repeat center center;
+	background: url("../../img/smartphone.jpg") no-repeat 0% 50%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -9,7 +9,7 @@
   	padding-bottom: 0%;
   	padding-left: 0%;
   	padding-right: 0%;
-}
+	}
 
 /*titolo e sottotitolo jumbotron*/
 .titolo{
