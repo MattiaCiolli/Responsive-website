@@ -44,3 +44,15 @@
 	margin-top: 4%;
 }
 
+
+@media (max-width: 482px){
+	.divider-title{
+		margin-bottom: 30px;
+	}
+}
+
+@media (max-width: 339px){
+	.divider-title{
+		margin-bottom: 70px;
+	}
+}

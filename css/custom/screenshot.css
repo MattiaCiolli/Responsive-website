@@ -57,6 +57,43 @@ border:0px;
 
 	.imgResp{
 		width: 80%;
-		max-width: 300px; 
+		max-width: 153px; 
+	}
+}
+
+
+#p3id{
+	margin-bottom: 20%;
+}
+
+#p2id{
+	margin-bottom: 10%;
+}
+
+#p1id{
+	margin-bottom: 10%;
+}
+
+
+@media (max-width:768px) and (min-width: 360px){
+	.primoTitolo{
+		margin-top: 1%;
+	}
+}
+
+.imgResp{
+	margin-bottom: 3%;
+}
+
+
+@media (max-width:1200px) and (min-width: 820px){
+	.p1{
+		margin-left: 5%;
+	}
+	.p2{
+		margin-left: 5%;
+	}
+	.p3{
+		margin-left: 5%;
 	}
 }

@@ -1,6 +1,7 @@
-rimettere icona della mucca al posto del razzo (?)
+rimettere icona della mucca al posto del razzo (no)
 
-sistemare javascript degli screenshot
+cercare immagine di sfondo index senza cinesi
+mettere un immagine in contatti magari di lato a sinistra
 
 cambiare l'immagine divider con una meno sgranata
 
