@@ -14,8 +14,49 @@
 	margin-top: 4%;
 }
 
-@media (max-width:768px ){
+@media (max-width:768px) and (min-width: 510px){
 	.imgfeatures{
-		max-width: 220px;
+	    width: 33%;
+	    float: left;
+	    position: relative;
+		min-height: 1px;
+		padding-right: 15px;
+		padding-left: 15px;
+
+	}
+	.caption{
+		width: 66%;
+	    float: left;
+	    position: relative;
+		min-height: 1px;
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+}
+
+@media (max-width:510px){
+	.imgfeatures{
+	    width: 33%;
+	    float: left;
+	    position: relative;
+		min-height: 1px;
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-left: 33%;
+
+	}
+	.caption{
+		width: 100%;
+	    float: left;
+	    position: relative;
+		min-height: 1px;
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+}
+
+@media (max-width:386px){
+	.divider-title{
+		margin-bottom: 30px;
 	}
 }
