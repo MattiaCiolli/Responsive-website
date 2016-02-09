@@ -27,7 +27,7 @@
 
 .navbar{
 	margin-bottom: 0%;
-	/*per mettere l'effetto trasparenza decommentare la seguente riga e modificare la 
+	/*per mettere l'effetto trasparenza decommentare la seguente riga e modificare la
 	navbar come fixed piuttosto che static
 	background-color: rgba( 0, 0, 0, .3 );*/
 }
@@ -145,7 +145,8 @@
 }
 
 @media (max-width:480px ){
-
-
 }
 
+.profileImage {
+	border-radius: 50%;
+}
