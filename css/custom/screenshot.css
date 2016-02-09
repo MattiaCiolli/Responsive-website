@@ -1,9 +1,7 @@
 .thumbnail{
 border:0px;
 }
-.spazio{
-	margin-top: 4%;
-}
+
 .spaziosopra{
 	margin-top: 1%;
 }
@@ -96,4 +94,16 @@ border:0px;
 	.p3{
 		margin-left: 5%;
 	}
+}
+
+@media (max-width: 537px){
+	.divider-title{
+	
+		font-size:1.3em;
+		
+	}
+	.nome{
+		font-size:1em;
+	}
+
 }
