@@ -1,0 +1,26 @@
+@media (max-width: 994px){
+	.divider-title{
+		
+	    font-size:1.7em;
+		
+	}
+}
+
+@media (max-width: 593px){
+	.divider-title{
+		font-size:1.3em;
+		
+	}
+}
+
+@media (max-width: 537px){
+	.divider-title{
+	
+		font-size:1.3em;
+		
+	}
+	.nome{
+		font-size:1em;
+	}
+
+}
