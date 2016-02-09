@@ -12,7 +12,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom/home.css" rel="stylesheet">
     <link href="css/custom/simili.css" rel="stylesheet">
-	
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -21,14 +21,14 @@
     <![endif]-->
   </head>
   <body>
-    
+
   	<!-- Navbar fissa-->
-  	<!-- navbar inverse da barra scura con scritta chiara, 
+  	<!-- navbar inverse da barra scura con scritta chiara,
          fixed-top la lascia sempre sopra,
          collapse perchè sia responsive -->
   	<div class="navbar navbar-inverse navbar-static-top " role="navigation">
       <div class="container">
-        
+
         <div class="navbar-header">
           <!-- bottone con tre linette(icon-bar) quando restringi-->
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -36,20 +36,20 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-          </button> 
+          </button>
           <!-- quando la navbar collassa lasciamo comunque sempre un link al brand-->
 
-          
+
           <a class="navbar-brand  hidden-xs " href="index.html">Univaq-ino
             <img class="logo navbar-left" src="img/logo.png" alt="logo univaq-ino">
 
           </a>
-          
+
           <a class="navbar-brand  hidden-sm hidden-md hidden-lg" href="index.html">
             <img class="logo navbar-left" src="img/logo.png" alt="logo univaq-ino">
 
           </a>
-          
+
         </div>
 
         <div class="navbar-collapse collapse">
@@ -59,11 +59,11 @@
             <li ><a href="recensioni.html">Recensioni</a></li>
             <li ><a href="faq.html">FAQ</a></li>
           </ul>
-        </div> 
+        </div>
 
       </div>
     </div>
-    <div class="container"> 
+    <div class="container">
       <div class="row spazio" >
        <div class="col-xs-3 col-sm-4 col-lg-4 col-md-4">
           <img class="divider-image" src="img/divider.png" >
@@ -78,62 +78,51 @@
       </div>
     </div>
 
-<div class="container spazio" >
-      <div class="row margine ">
-        <div class="col-lg-3">
-        </div>
-        <div class="col-lg-6 thumbnail">
+    <div class="container spazio">
 
-          <div class="col-lg-3">
-            <b>Email:</b>
-          </div>
-          <div class="col-lg-4">
-            <span>esempio@email.com</span>
-            <span >
-            <a href="#contact" data-toggle="modal">
-              <img  class="email pull-right"  src="img/mail.png" alt="icona email">
-            </a>
-            </span>
-          </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <img src="img/contattaci.jpg" class="contactsImage">
+            </div>
+            <div class="col-lg-6">
+                <div class="row thumbnail">
+                        <div class="col-lg-3">
+                            <b>Email:</b>
+                        </div>
+                        <div class="col-lg-4">
+                            <span>
+                                <a href="#contact" data-toggle="modal">
+                                    <i class="glyphicon glyphicon-envelope"></i>
+                                </a>
+                                esempio@email.com
+                            </span>
+                        </div>
+                </div>
 
-        </div>
-        <div class="col-lg-1">
-        </div>
-      </div>
+                <div class="row thumbnail">
+                        <div class="col-lg-3">
+                            <b>Telefono 1:</b>
+                        </div>
+                        <div class="col-lg-4">
+                            <i class="glyphicon glyphicon-earphone"></i>
+                            001122334455
+                        </div>
+                </div>
 
-      <div class="row">
-        <div class="col-lg-3">
+                <div class="row thumbnail">
+                        <div class="col-lg-3">
+                            <b>Telefono 2:</b>
+                        </div>
+                        <div class="col-lg-4">
+                            <i class="glyphicon glyphicon-phone"></i>
+                            001122334456
+                        </div>
+                </div>
+            </div>
         </div>
-        <div class="col-lg-6 thumbnail">
-          <div class="col-lg-3">
-            <b>Telefono:</b>
-          </div>
-          <div class="col-lg-4">
-            001122334455
-          </div>
-        </div>
-        <div class="col-lg-1">
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-lg-3">
-        </div>
-        <div class="col-lg-6 thumbnail">
-          <div class="col-lg-3">
-            <b>Fax:</b>
-          </div>
-          <div class="col-lg-4">
-            554433221100
-          </div>
-        </div>
-        <div class="col-lg-1">
-        </div>
-      </div>
-
     </div>
 
-    
+
     <div class="footer navbar navbar-default navbar-fixed-bottom">
       <div class="container">
         <div class="row">
@@ -183,19 +172,19 @@
               <div class="form-group">
                   <label for="contact-name" class="col-lg-2 control-label">Nome:</label>
                   <div class="col-lg-10">
-                    <input type="text" class="form-control" id="contact-name" placeholder="Nome e Cognome"> 
+                    <input type="text" class="form-control" id="contact-name" placeholder="Nome e Cognome">
                   </div>
               </div>
               <div class="form-group">
                   <label for="contact-email" class="col-lg-2 control-label">Email:</label>
                   <div class="col-lg-10">
-                    <input type="email" class="form-control" id="contact-email" placeholder="you@example.com"> 
+                    <input type="email" class="form-control" id="contact-email" placeholder="you@example.com">
                   </div>
               </div>
               <div class="form-group">
                   <label for="contact-msg" class="col-lg-2 control-label">Messaggio:</label>
                   <div class="col-lg-10">
-                    <textarea class="form-control" rows="8"></textarea> 
+                    <textarea class="form-control" rows="8"></textarea>
                   </div>
               </div>
 

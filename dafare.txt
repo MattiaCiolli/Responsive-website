@@ -7,7 +7,7 @@ cambiare l'immagine divider con una meno sgranata
 
 parola chiave di primo livello: Univaq-ino
 parole chiavi di secondo livello: università, aule libere, uffici professori
-parole chiavi di terzo livello: app, docenti univaq, mensa univaq 
+parole chiavi di terzo livello: app, docenti univaq, mensa univaq
 
 mettere la parola chiave nel tag title piu vicino possibile alll'inizio del tag. Oltre le 70 lettere taglia
 mettere la parola chiave nel tag header h1 della pagina
