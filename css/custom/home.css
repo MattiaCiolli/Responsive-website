@@ -29,7 +29,7 @@
 .navbar{
 	margin-bottom: 0%;
 	background-color: #1ABC9C;
-	border-color: #568E86;
+
 	/*per mettere l'effetto trasparenza decommentare la seguente riga e modificare la
 	navbar come fixed piuttosto che static
 	background-color: rgba( 0, 0, 0, .3 );*/
@@ -48,7 +48,7 @@ body {
 	color: #34495E;
 }
 
-.navbar-fixed-top .navbar-collapse {
+.navbar-fixed-top, .navbar-collapse{
 	border-color: #568E86 !important;
 }
 
