@@ -181,6 +181,26 @@ body {
 	border-color: #05944F;
 }
 
+.navbar-inverse .navbar-toggle {
+    border-color: #568E86;
+}
+
+.navbar-inverse .navbar-toggle:hover {
+	border-color: #568E86;
+	background-color: #568E86;
+}
+
+.navbar-toggle .active{
+	border-color: #568E86 !important;
+	background-color: #568E86 !important;
+}
+.navbar-toggle:focus{
+	border-color: #568E86 !important;
+	background-color: #568E86 !important;
+}
+
+
+
 @media (max-width:480px ){
 }
 
