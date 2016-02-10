@@ -45,15 +45,15 @@
 
 
 .spazio{
-	
+
 	margin-top:70px;
-	
+
 }
 
 .spazio_content{
-	
+
 	margin-top:20px;
-	
+
 }
 
 .socials_bar{
@@ -70,28 +70,37 @@ margin-top: 10px;
 
 @media (max-width: 994px){
 	.divider-title{
-		
+
 	    font-size:1.8em;
-		
+
 	}
+}
+
+.panel-success>.panel-heading {
+	background-color: #568E86;
+	color: #FFFFFF;
+}
+
+.buttonNavBar {
+	background-color: #568E86;
+	color: #E6E6E6;
 }
 
 @media (max-width: 593px){
 	.divider-title{
 		font-size:1.7em;
-		
+
 	}
 }
 
 @media (max-width: 537px){
 	.divider-title{
-	
+
 		font-size:1.7em;
-		
+
 	}
 	.nome{
 		font-size:1em;
 	}
 
 }
-
